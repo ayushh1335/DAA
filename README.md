@@ -1,2 +1,2 @@
 # DAA
-DAA Practical
+DAA Lab Practical
